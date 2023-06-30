@@ -1,0 +1,7 @@
+As a data analyst, I successfully completed a Microsoft Power BI project called "Crypto Currency Dashboard." This project involved data cleaning, processing, analysis, and the creation of a visually captivating dashboard to provide valuable insights into the world of crypto currencies.
+
+During the data cleaning phase, I meticulously prepared the crypto currency dataset by removing duplicates, handling missing values, and ensuring data consistency. This crucial step ensured the accuracy and reliability of the data for subsequent analysis.
+
+To effectively communicate the findings, I designed and developed a visually appealing and user-friendly Crypto Currency Dashboard using Power BI's intuitive interface. The dashboard featured interactive charts, graphs, and tables, enabling stakeholders to explore the crypto currency data and gain actionable insights. Through thoughtful design choices and effective data visualization techniques, I created a visually captivating dashboard that effectively conveyed the complexities of the crypto currency market.
+
+The Crypto Currency Dashboard project in Microsoft Power BI demonstrated my proficiency in data cleaning, processing, analysis, and the creation of visually captivating dashboards. It showcased my ability to transform complex crypto currency data into actionable insights, empowering stakeholders to make informed decisions within the dynamic and evolving crypto market.
